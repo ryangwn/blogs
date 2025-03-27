@@ -3,3 +3,7 @@
 ---
 
 Two note released
+
+```js
+let a = 'test'
+```
